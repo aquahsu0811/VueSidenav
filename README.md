@@ -1,5 +1,7 @@
 # sidenav
 
+[DEMO](https://aquahsu0811.github.io/VueSidenav/)
+
 ## Project setup
 ```
 npm install
